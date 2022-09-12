@@ -85,7 +85,6 @@
     root
     );
 
-> BrowserRouter adalah antar muka yang direkomendasikan untuk menjalankan React Router di browser web. BrowserRouter menyimpan lokasi saat ini di bilah alamat browser menggunakan URL bersih dan bernavigasi menggunakan tumpukan riwayat bawaan browser.
 
       import { Link } from "react-router-dom";
 
